@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Ace, aspiring Full Stack Developer! 👨‍💻
-## I'm currently starting my college in PLM -BSCS
+## I'm currently working my way through college in PLM - BSCS
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything everything that i could 🤣
 - 👯 I’m looking to collaborate with other aspiring Web Devs 
