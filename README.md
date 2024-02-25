@@ -1,9 +1,9 @@
 ### Hi there 👋, I'm Ace, aspiring Full Stack Developer! 👨‍💻
 ## I'm currently working my way through college in PLM - BSCS
-- 🔭 I’m currently working on <a href="https://plm-scholarship.vercel.app/">PLM Educational Management System</a>!
+- 🔭 I’m currently working on expanding my skill in SpringBoot
 - 🌱 I’m currently learning everything everything that i could 🤣
 - 👯 I’m looking to collaborate with other aspiring Web Devs 
-- 🥅 2023 Goals: To improve my coding skils more and more!!! ⚡
+- 🥅 2024 Goals: To improve my coding skils more and more!!! ⚡
 
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
