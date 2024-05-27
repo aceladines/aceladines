@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Ace, aspiring Full Stack Developer! 👨‍💻
-## I'm currently working my way through college in PLM - BSCS
+### Hi there 👋, I'm Ace, aspiring Software Engineer! 👨‍💻
+## Prepping myself to enter the industy!
 - 🔭 I’m currently working on expanding my skill in SpringBoot
 - 🌱 I’m currently learning everything everything that i could 🤣
 - 👯 I’m looking to collaborate with other aspiring Web Devs 
