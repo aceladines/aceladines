@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Ace, aspiring Software Engineer! 👨‍💻
 ## Prepping myself to enter the industy!
-- 🔭 I’m currently working on expanding my skill in SpringBoot
-- 🌱 I’m currently learning everything everything that i could 🤣
+- 🔭 I’m currently working on expanding my skill in .NET Core
 - 👯 I’m looking to collaborate with other aspiring Web Devs 
 - 🥅 2024 Goals: To improve my coding skils more and more!!! ⚡
 
