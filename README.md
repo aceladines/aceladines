@@ -27,6 +27,6 @@ I'm passionate about crafting innovative web applications and pushing the bounda
 
 **Connect with me:**
 
-- [LinkedIn]([your_linkedin_url](https://www.linkedin.com/in/acemon-jassene-ladines-71968a258/))
+- [LinkedIn](https://www.linkedin.com/in/acemon-jassene-ladines-71968a258/)
 
 **Let's build something amazing!**
