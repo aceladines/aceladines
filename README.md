@@ -6,7 +6,7 @@ I'm passionate about crafting innovative web applications and pushing the bounda
 
 - 🔭 I'm currently diving deep into the world of .NET Core, expanding my skills to build robust and scalable applications.
 - 👯 I'm always eager to collaborate with other aspiring web developers, learn from their experiences, and build something amazing together.
-- 🥅 My 2024 goal: To become a proficient coder and contribute to projects that make a real impact. ⚡
+- 🥅 My 2025 goal: To become a proficient coder and contribute to projects that make a real impact. ⚡
 
 ### Skills & Tools 🧰
 
