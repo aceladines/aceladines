@@ -1,36 +1,50 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=ace.ladines&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3E_%20application%20developer%20//%20python%20//%20agentic%20ai&descAlignY=60&descSize=14" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:FB5607,100:FFBE0B&height=200&section=header&text=ace.ladines&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3E_%20application%20developer%20//%20python%20//%20agentic%20ai&descAlignY=60&descSize=14" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=38&duration=2800&pause=900&color=FF00FF&center=true&vCenter=true&width=720&lines=%3E+booting+ace.exe...;%3E+loading+neural+net...;%3E+ready+to+build+%E2%96%88" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=38&duration=2800&pause=900&color=FF006E&center=true&vCenter=true&width=720&lines=%3E+booting+ace.exe...;%3E+loading+neural+net...;%3E+ready+to+build+%E2%96%88" alt="Typing SVG" />
 
 <br /><br />
 
-![](https://img.shields.io/badge/SYSTEM-ONLINE-FF00FF?style=for-the-badge&labelColor=0a0014)
-![](https://img.shields.io/badge/MODE-AGENTIC__AI-00FFFF?style=for-the-badge&labelColor=0a0014)
-![](https://img.shields.io/badge/YEAR-2026-FFD700?style=for-the-badge&labelColor=0a0014)
-![](https://komarev.com/ghpvc/?username=aceladines&label=VISITORS&color=ff00ff&style=for-the-badge)
+![](https://img.shields.io/badge/SYSTEM-ONLINE-FF006E?style=for-the-badge&labelColor=2d0036)
+![](https://img.shields.io/badge/MODE-AGENTIC__AI-FB5607?style=for-the-badge&labelColor=2d0036)
+![](https://img.shields.io/badge/YEAR-2026-FFBE0B?style=for-the-badge&labelColor=2d0036)
+![](https://komarev.com/ghpvc/?username=aceladines&label=VISITORS&color=ff006e&style=for-the-badge)
 
 </div>
 
 <br />
 
 ```
- ╔══════════════════════════════════════════════════════════════════╗
- ║   ___   _____  _____   __    ___    ___   ____  _   _  _____    ║
- ║  / _ \ /  __/ /  __/  / /   / _ \  / _ \ /  _/ / \ / |/  __/    ║
- ║ / /_\ \\/__ \ \/__ \ / /__ / /_\ \/ /_\ \ _// /  /   /\/__ \    ║
- ║/_/   \_\___/\/\___/\/____//_/   \_\___/\__/   |_/\_/\_\___/     ║
- ║                                                                  ║
- ║       >  S Y N T H W A V E   D E V E L O P E R   M O D E  <      ║
- ╚══════════════════════════════════════════════════════════════════╝
+ █████╗  ██████╗███████╗    ██╗      █████╗ ██████╗ ██╗███╗   ██╗███████╗███████╗
+██╔══██╗██╔════╝██╔════╝    ██║     ██╔══██╗██╔══██╗██║████╗  ██║██╔════╝██╔════╝
+███████║██║     █████╗      ██║     ███████║██║  ██║██║██╔██╗ ██║█████╗  ███████╗
+██╔══██║██║     ██╔══╝      ██║     ██╔══██║██║  ██║██║██║╚██╗██║██╔══╝  ╚════██║
+██║  ██║╚██████╗███████╗    ███████╗██║  ██║██████╔╝██║██║ ╚████║███████╗███████║
+╚═╝  ╚═╝ ╚═════╝╚══════╝    ╚══════╝╚═╝  ╚═╝╚═════╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝
+              ░░  S U N S E T   D E V   M O D E   //   v.2026  ░░
+```
+
+```
+                                  ☀
+                               ░▒▓██▓▒░
+                            ░▒▓████████▓▒░
+                         ░▒▓██████████████▓▒░
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+         ╲    ╲    ╲    ╲    ╲    │    ╱    ╱    ╱    ╱    ╱    ╱
+           ╲    ╲    ╲    ╲    ╲  │  ╱    ╱    ╱    ╱    ╱    ╱
+             ╲    ╲    ╲    ╲    ╲│╱    ╱    ╱    ╱    ╱    ╱
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+        ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ```py
 class Ace:
     """
     >>> initializing developer.exe
-    >>> status: caffeinated and online
+    >>> palette: sunset.synthwave
+    >>> status:  caffeinated and online
     """
     def __init__(self):
         self.name        = "Ace Ladines"
@@ -41,7 +55,7 @@ class Ace:
         self.goal_2026   = "build agentic apps that actually solve problems"
 
     def fuel(self):
-        return "☕  +  🎧 synthwave  +  🌙 late nights"
+        return "☕  +  🎧 synthwave  +  🌅 golden hour debugging"
 ```
 
 <br />
@@ -60,9 +74,9 @@ agentic_systems/  retrieval_augmented_gen/  vector_search/  cloud_native/
 "build things that feel a little bit magical."
 ```
 
-- 🤖 &nbsp;currently building with **Microsoft Agentic Framework** + **Azure OpenAI**
+- 🌇 &nbsp;currently building with **Microsoft Agentic Framework** + **Azure OpenAI**
 - 🧠 &nbsp;leveling up on **distributed systems** & **vector search at scale**
-- 🛰️ &nbsp;open to collab on **AI**, **full-stack**, and **dev-tooling** projects
+- 📡 &nbsp;open to collab on **AI**, **full-stack**, and **dev-tooling** projects
 - 🕹️ &nbsp;fueled by neon, lo-fi beats, and an unreasonable love for clean APIs
 
 <br />
@@ -73,50 +87,68 @@ agentic_systems/  retrieval_augmented_gen/  vector_search/  cloud_native/
   <tr>
     <td valign="top"><strong>┌─ LANG ──────┐</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0a0014&labelColor=0a0014" />
-      <img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=0a0014&labelColor=0a0014" />
-      <img src="https://img.shields.io/badge/SQL-FF00FF?style=for-the-badge&logo=postgresql&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Python-FFBE0B?style=for-the-badge&logo=python&logoColor=2d0036&labelColor=2d0036" />
+      <img src="https://img.shields.io/badge/TypeScript-FB5607?style=for-the-badge&logo=typescript&logoColor=2d0036&labelColor=2d0036" />
+      <img src="https://img.shields.io/badge/SQL-FF006E?style=for-the-badge&logo=postgresql&logoColor=2d0036&labelColor=2d0036" />
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>├─ FRONT ─────┤</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Next.js-FF00FF?style=for-the-badge&logo=next.js&logoColor=0a0014&labelColor=0a0014" />
-      <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Next.js-FF006E?style=for-the-badge&logo=next.js&logoColor=2d0036&labelColor=2d0036" />
+      <img src="https://img.shields.io/badge/React-FFBE0B?style=for-the-badge&logo=react&logoColor=2d0036&labelColor=2d0036" />
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>├─ BACK ──────┤</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/FastAPI-00FF9F?style=for-the-badge&logo=fastapi&logoColor=0a0014&labelColor=0a0014" />
-      <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/FastAPI-FB5607?style=for-the-badge&logo=fastapi&logoColor=2d0036&labelColor=2d0036" />
+      <img src="https://img.shields.io/badge/Python-FFBE0B?style=for-the-badge&logo=python&logoColor=2d0036&labelColor=2d0036" />
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>├─ AI/AGENTS ─┤</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Azure%20OpenAI-FF00FF?style=for-the-badge&logo=microsoftazure&logoColor=0a0014&labelColor=0a0014" />
-      <img src="https://img.shields.io/badge/Microsoft%20Agentic%20Framework-00FFFF?style=for-the-badge&logo=microsoft&logoColor=0a0014&labelColor=0a0014" />
-      <img src="https://img.shields.io/badge/Azure%20AI%20Search-FFD700?style=for-the-badge&logo=microsoftazure&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Azure%20OpenAI-FF006E?style=for-the-badge&logo=microsoftazure&logoColor=2d0036&labelColor=2d0036" />
+      <img src="https://img.shields.io/badge/Microsoft%20Agentic%20Framework-FB5607?style=for-the-badge&logo=microsoft&logoColor=2d0036&labelColor=2d0036" />
+      <img src="https://img.shields.io/badge/Azure%20AI%20Search-FFBE0B?style=for-the-badge&logo=microsoftazure&logoColor=2d0036&labelColor=2d0036" />
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>├─ DATA ──────┤</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Cosmos%20DB-00FFFF?style=for-the-badge&logo=microsoftazure&logoColor=0a0014&labelColor=0a0014" />
-      <img src="https://img.shields.io/badge/PostgreSQL-FF00FF?style=for-the-badge&logo=postgresql&logoColor=0a0014&labelColor=0a0014" />
-      <img src="https://img.shields.io/badge/Supabase-00FF9F?style=for-the-badge&logo=supabase&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Cosmos%20DB-FB5607?style=for-the-badge&logo=microsoftazure&logoColor=2d0036&labelColor=2d0036" />
+      <img src="https://img.shields.io/badge/PostgreSQL-FF006E?style=for-the-badge&logo=postgresql&logoColor=2d0036&labelColor=2d0036" />
+      <img src="https://img.shields.io/badge/Supabase-FFBE0B?style=for-the-badge&logo=supabase&logoColor=2d0036&labelColor=2d0036" />
     </td>
   </tr>
   <tr>
     <td valign="top"><strong>└─ INFRA ─────┘</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=docker&logoColor=0a0014&labelColor=0a0014" />
-      <img src="https://img.shields.io/badge/Azure-FF00FF?style=for-the-badge&logo=microsoftazure&logoColor=0a0014&labelColor=0a0014" />
-      <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Docker-FB5607?style=for-the-badge&logo=docker&logoColor=2d0036&labelColor=2d0036" />
+      <img src="https://img.shields.io/badge/Azure-FF006E?style=for-the-badge&logo=microsoftazure&logoColor=2d0036&labelColor=2d0036" />
+      <img src="https://img.shields.io/badge/Git-FFBE0B?style=for-the-badge&logo=git&logoColor=2d0036&labelColor=2d0036" />
     </td>
   </tr>
 </table>
+
+<br />
+
+## ░▒▓█ &nbsp;NOW&nbsp;PLAYING&nbsp; █▓▒░
+
+<div align="center">
+
+<!--
+  Spotify "now playing" badge.
+  REQUIRES deploying https://github.com/novatorem/novatorem (or a fork)
+  to Vercel and connecting your Spotify account via OAuth.
+  Replace YOUR_DEPLOYMENT below with the URL you get from Vercel.
+-->
+<a href="https://open.spotify.com/user/aceladines">
+  <img src="https://YOUR_DEPLOYMENT.vercel.app/api/spotify" alt="Spotify Now Playing" />
+</a>
+
+</div>
 
 <br />
 
@@ -135,10 +167,10 @@ agentic_systems/  retrieval_augmented_gen/  vector_search/  cloud_native/
 <div align="center">
 
 <a href="https://www.linkedin.com/in/acemon-jassene-ladines-71968a258/">
-  <img src="https://img.shields.io/badge/-LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=0a0014&labelColor=0a0014" />
+  <img src="https://img.shields.io/badge/-LINKEDIN-FF006E?style=for-the-badge&logo=linkedin&logoColor=2d0036&labelColor=2d0036" />
 </a>
 <a href="https://github.com/aceladines">
-  <img src="https://img.shields.io/badge/-GITHUB-00FFFF?style=for-the-badge&logo=github&logoColor=0a0014&labelColor=0a0014" />
+  <img src="https://img.shields.io/badge/-GITHUB-FB5607?style=for-the-badge&logo=github&logoColor=2d0036&labelColor=2d0036" />
 </a>
 
 <br /><br />
@@ -150,6 +182,6 @@ agentic_systems/  retrieval_augmented_gen/  vector_search/  cloud_native/
  ──────────────────────────────────────────────────────
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFBE0B,50:FB5607,100:FF006E&height=120&section=footer" />
 
 </div>
