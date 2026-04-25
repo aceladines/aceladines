@@ -134,24 +134,6 @@ agentic_systems/  retrieval_augmented_gen/  vector_search/  cloud_native/
 
 <br />
 
-## ░▒▓█ &nbsp;NOW&nbsp;PLAYING&nbsp; █▓▒░
-
-<div align="center">
-
-<!--
-  Spotify "now playing" badge.
-  REQUIRES deploying https://github.com/novatorem/novatorem (or a fork)
-  to Vercel and connecting your Spotify account via OAuth.
-  Replace YOUR_DEPLOYMENT below with the URL you get from Vercel.
--->
-<a href="https://open.spotify.com/user/aceladines">
-  <img src="https://YOUR_DEPLOYMENT.vercel.app/api/spotify" alt="Spotify Now Playing" />
-</a>
-
-</div>
-
-<br />
-
 ## ░▒▓█ &nbsp;TRANSMISSION&nbsp; █▓▒░
 
 ```
