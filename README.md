@@ -1,157 +1,155 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Ace+%F0%9F%91%8B;Python+Application+Developer+%F0%9F%90%8D;Building+with+AI%2C+Cloud+%26+Code+%F0%9F%9A%80;Turning+caffeine+into+commits+%E2%98%95" alt="Typing SVG" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aceladines&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/aceladines?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="followers" />
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-8A2BE2?style=for-the-badge&labelColor=0d1117" alt="focus" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=ace.ladines&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%3E_%20application%20developer%20//%20python%20//%20agentic%20ai&descAlignY=60&descSize=14" />
+
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=38&duration=2800&pause=900&color=FF00FF&center=true&vCenter=true&width=720&lines=%3E+booting+ace.exe...;%3E+loading+neural+net...;%3E+ready+to+build+%E2%96%88" alt="Typing SVG" />
+
+<br /><br />
+
+![](https://img.shields.io/badge/SYSTEM-ONLINE-FF00FF?style=for-the-badge&labelColor=0a0014)
+![](https://img.shields.io/badge/MODE-AGENTIC__AI-00FFFF?style=for-the-badge&labelColor=0a0014)
+![](https://img.shields.io/badge/YEAR-2026-FFD700?style=for-the-badge&labelColor=0a0014)
+![](https://komarev.com/ghpvc/?username=aceladines&label=VISITORS&color=ff00ff&style=for-the-badge)
+
+</div>
 
 <br />
 
-```ts
-const ace = {
-  role:        "Application Developer (Python)",
-  location:    "Building from the cloud ☁️",
-  currently:   ["Microsoft Agentic Framework", "Azure AI Search", "Next.js 15"],
-  stack:       ["TypeScript", "Python", "FastAPI", "React", "Next.js"],
-  cloud:       ["Azure OpenAI", "Cosmos DB", "Azure AI Search", "Supabase"],
-  databases:   ["PostgreSQL", "Cosmos DB", "Supabase"],
-  philosophy:  "Ship small, learn fast, iterate forever.",
-  goal2025:    "Build agentic apps that actually solve real problems.",
-};
+```
+ ╔══════════════════════════════════════════════════════════════════╗
+ ║   ___   _____  _____   __    ___    ___   ____  _   _  _____    ║
+ ║  / _ \ /  __/ /  __/  / /   / _ \  / _ \ /  _/ / \ / |/  __/    ║
+ ║ / /_\ \\/__ \ \/__ \ / /__ / /_\ \/ /_\ \ _// /  /   /\/__ \    ║
+ ║/_/   \_\___/\/\___/\/____//_/   \_\___/\__/   |_/\_/\_\___/     ║
+ ║                                                                  ║
+ ║       >  S Y N T H W A V E   D E V E L O P E R   M O D E  <      ║
+ ╚══════════════════════════════════════════════════════════════════╝
+```
+
+```py
+class Ace:
+    """
+    >>> initializing developer.exe
+    >>> status: caffeinated and online
+    """
+    def __init__(self):
+        self.name        = "Ace Ladines"
+        self.role        = "Application Developer  ::  Python"
+        self.location    = "the cloud  ☁️"
+        self.currently   = ["Microsoft Agentic Framework", "Azure AI Search"]
+        self.philosophy  = "ship small  //  learn loud  //  iterate forever"
+        self.goal_2026   = "build agentic apps that actually solve problems"
+
+    def fuel(self):
+        return "☕  +  🎧 synthwave  +  🌙 late nights"
 ```
 
 <br />
 
-## 🧠  About Me
+## ░▒▓█ &nbsp;ABOUT&nbsp; █▓▒░
 
-> I'm a **Python Application Developer** passionate about crafting **AI-powered web applications** — combining clean front-end experiences with intelligent back-ends. Lately I've been obsessed with **agentic systems**, retrieval-augmented generation, and pushing what's possible when LLMs meet well-architected cloud services.
+```
+> whoami
+ace_ladines :: python application developer
+> cat /dev/skills
+crafting AI-powered web apps where clean front-ends
+meet intelligent, well-architected back-ends.
+> ls ~/obsessions
+agentic_systems/  retrieval_augmented_gen/  vector_search/  cloud_native/
+> echo $MISSION
+"build things that feel a little bit magical."
+```
 
-- 🔭 &nbsp;Currently building with the **Microsoft Agentic Framework** + **Azure OpenAI**
-- 🌱 &nbsp;Leveling up on **distributed systems** and **vector search** at scale
-- 👯 &nbsp;Open to collaborating on **AI**, **full-stack**, and **developer tooling** projects
-- 🥅 &nbsp;2025 goal: ship products people actually use — and keep learning loudly
-- ⚡ &nbsp;Fun fact: I prototype faster than my coffee gets cold
+- 🤖 &nbsp;currently building with **Microsoft Agentic Framework** + **Azure OpenAI**
+- 🧠 &nbsp;leveling up on **distributed systems** & **vector search at scale**
+- 🛰️ &nbsp;open to collab on **AI**, **full-stack**, and **dev-tooling** projects
+- 🕹️ &nbsp;fueled by neon, lo-fi beats, and an unreasonable love for clean APIs
 
 <br />
 
-## 🛠️  Tech Stack
+## ░▒▓█ &nbsp;TECH&nbsp;STACK&nbsp; █▓▒░
 
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="120"><strong>Languages</strong></td>
+    <td valign="top"><strong>┌─ LANG ──────┐</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/TypeScript-00FFFF?style=for-the-badge&logo=typescript&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/SQL-FF00FF?style=for-the-badge&logo=postgresql&logoColor=0a0014&labelColor=0a0014" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Frontend</strong></td>
+    <td valign="top"><strong>├─ FRONT ─────┤</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/Next.js-FF00FF?style=for-the-badge&logo=next.js&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/React-00FFFF?style=for-the-badge&logo=react&logoColor=0a0014&labelColor=0a0014" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Backend</strong></td>
+    <td valign="top"><strong>├─ BACK ──────┤</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-00FF9F?style=for-the-badge&logo=fastapi&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=0a0014&labelColor=0a0014" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>AI / Agents</strong></td>
+    <td valign="top"><strong>├─ AI/AGENTS ─┤</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microsoft%20Agentic%20Framework-5E5DF0?style=for-the-badge&logo=microsoft&logoColor=white" />
-      <img src="https://img.shields.io/badge/Azure%20AI%20Search-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20OpenAI-FF00FF?style=for-the-badge&logo=microsoftazure&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Microsoft%20Agentic%20Framework-00FFFF?style=for-the-badge&logo=microsoft&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Azure%20AI%20Search-FFD700?style=for-the-badge&logo=microsoftazure&logoColor=0a0014&labelColor=0a0014" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Databases</strong></td>
+    <td valign="top"><strong>├─ DATA ──────┤</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Azure%20Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cosmos%20DB-00FFFF?style=for-the-badge&logo=microsoftazure&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/PostgreSQL-FF00FF?style=for-the-badge&logo=postgresql&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Supabase-00FF9F?style=for-the-badge&logo=supabase&logoColor=0a0014&labelColor=0a0014" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>DevOps</strong></td>
+    <td valign="top"><strong>└─ INFRA ─────┘</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-00FFFF?style=for-the-badge&logo=docker&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Azure-FF00FF?style=for-the-badge&logo=microsoftazure&logoColor=0a0014&labelColor=0a0014" />
+      <img src="https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=0a0014&labelColor=0a0014" />
     </td>
   </tr>
 </table>
 
 <br />
 
-## 📊  GitHub Stats
+## ░▒▓█ &nbsp;TRANSMISSION&nbsp; █▓▒░
 
-<p align="center">
-  <a href="https://github.com/aceladines">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=aceladines&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8A2BE2&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aceladines&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=8A2BE2&fire=00D9FF&currStreakLabel=00D9FF" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/aceladines">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aceladines&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aceladines&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-  </a>
-</p>
+```
+[ note ] :: most of my commits live in a private enterprise org,
+            so this profile is just the tip of the iceberg. the
+            real reactor core is humming somewhere behind a vpn.  ⚡
+```
 
 <br />
 
-## 🐍  Contribution Graph
+## ░▒▓█ &nbsp;CONNECT&nbsp; █▓▒░
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aceladines&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=8A2BE2&point=ffffff&area=true&area_color=8A2BE2" />
-</p>
+<div align="center">
 
-<br />
+<a href="https://www.linkedin.com/in/acemon-jassene-ladines-71968a258/">
+  <img src="https://img.shields.io/badge/-LINKEDIN-FF00FF?style=for-the-badge&logo=linkedin&logoColor=0a0014&labelColor=0a0014" />
+</a>
+<a href="https://github.com/aceladines">
+  <img src="https://img.shields.io/badge/-GITHUB-00FFFF?style=for-the-badge&logo=github&logoColor=0a0014&labelColor=0a0014" />
+</a>
 
-## 🤝  Let's Connect
+<br /><br />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/acemon-jassene-ladines-71968a258/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/aceladines">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+```
+ ──────────────────────────────────────────────────────
+   "the future is already here — it's just not very
+    evenly distributed yet."          — william gibson
+ ──────────────────────────────────────────────────────
+```
 
-<br />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer" />
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <i>⭐ From <a href="https://github.com/aceladines">aceladines</a> — thanks for stopping by!</i>
-</p>
+</div>
